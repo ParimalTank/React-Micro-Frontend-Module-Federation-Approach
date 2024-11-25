@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  /* font-size: 3rem; */
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+}
+
+.navbar-style {
+  background-color: #002b5b;
+}
+
+.nav-button {
+  background-color: #57c5b6 !important;
+  border-color: #57c5b6 !important;
+}
+
+.nav-logout-btn {
+  color: #57c5b6 !important;
+  border-color: #57c5b6 !important;
+}
+
+.sign-up {
+  min-height: calc(100vh - 64px);
+}
+
+.sign-up-style {
+  min-height: 100vh;
+}
+
+.login-style {
+  min-height: 100vh;
+}
+
+.form-style {
+  max-width: 500px !important;
+  padding: 60px 0px;
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+    rgba(255, 255, 255, 0.25) 0px 50px 100px -20px,
+    rgba(255, 255, 255, 0.3) 0px 30px 60px -30px;
+}
+/* 
+.main-sign-up {
+  background-image: linear-gradient(to right, #00b4db, #0083b0);
+}
+
+.btn-sign-up {
+  background-image: linear-gradient(to right, #00b4db, #0083b0);
+}
+
+.main-login {
+  background-image: linear-gradient(to right, #00b4db, #0083b0);
+} */
+
+.error-text {
+  font-size: smaller;
+}
